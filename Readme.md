@@ -1,4 +1,4 @@
-### 99 bottles of beer on the wall
+# 99 bottles of beer on the wall
 This is a simple website that uses node express to count down the number of bottles of beer by clicking a navigation link
 
 ## Technologies used
@@ -9,7 +9,7 @@ Javascript
 node express
 ```
 
-# Installation
+### Installation
 
 1. clone git repository to your local computer
 2. open a terminal in your IDE and type 'nodemon' to open the local host
